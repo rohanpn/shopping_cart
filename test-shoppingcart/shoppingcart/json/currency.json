@@ -1,0 +1,22 @@
+[
+  {"name": "euro",
+  "currency" : "€",
+  "rate" : 1.0
+  },
+  {
+  "name": "dollar",
+  "currency" : "$",
+  "rate" : 1.09
+  },
+  {
+  "name" : "pound",
+  "currency" : "£",
+  "rate" : 0.92
+  },
+  {
+  "name": "rupees",
+  "currency" : "INR",
+  "rate" : 78
+  }
+
+]

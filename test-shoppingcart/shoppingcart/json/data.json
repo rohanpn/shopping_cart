@@ -1,0 +1,8 @@
+[ {"product_code" :  "banana",
+   "price":  1.10},
+  {"product_code" :  "kiwi",
+   "price":  3.0},
+  {"product_code" :  "apple",
+   "price":  1.0}
+]
+

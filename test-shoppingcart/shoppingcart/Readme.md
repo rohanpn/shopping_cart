@@ -1,6 +1,4 @@
-# shopping_cart
-
-Install [python3.6](https://www.python.org/downloads/)
+Install [python](https://www.python.org/downloads/)
 
 
 ```bash
@@ -12,6 +10,7 @@ Install [python3.6](https://www.python.org/downloads/)
     pytest ../tests/test_cart.py
 ```
 ## Execute cart.py
+
 ```bash
     pytest cart.py
 ```
